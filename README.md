@@ -67,12 +67,21 @@ print("RMSE= ",rmse)
 
 ## Output:
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/356f8110-4b46-40c3-9c2c-df4de14cd4bf)
+
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/8b06bced-997c-4d9b-977d-1b6bbd068424)
+
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/335984e6-f95a-471f-89c1-ef1c9ac7d346)
-![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/6127e19a-e0e8-485f-86f4-497025fd2cb8)
+
+![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/0d05825e-c9bc-4d93-966f-23b41a45b00f)
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/ae2d8312-d25d-4f33-b08f-5ea4ec262881)
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/ffd9b67d-25b9-441c-a2f6-79fce0f1ef42)
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/72a1f60d-84cf-496e-a87e-c184c5ad98e2)
+
 ![image](https://github.com/karthika28112004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128035087/f4cdc498-e3d8-4138-89dc-a255d847dbee)
 
 
